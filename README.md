@@ -8,14 +8,14 @@ The ElectroHub Sales Analysis Dashboard is a comprehensive Power BI project desi
 
 **This dashboard answers the following business questions:**
 
-Top/Bottom 5 Products: Identify the top and bottom 5 products by Sales, Profit, and Quantity Sold.
-Sales Trends Over Time: Visualize sales trends by day, month, quarter, and year.
-Sales-Profit Relationship: Explore the correlation between sales and profit.
-Period Comparison: Compare sales, profit, and quantity sold between any two user-selected periods.
-Discount Analysis: Calculate the average discount offered within each discount category.
-Order Count: Show the total number of orders processed.
-Dynamic Filtering: Enable filtering by Product, Date, Customer ID, Promotion Categories, and more.
-Regional Sales: Present sales data segmented by city.
+**Top/Bottom 5 Products:** Identify the top and bottom 5 products by Sales, Profit, and Quantity Sold.
+**Sales Trends Over Time:** Visualize sales trends by day, month, quarter, and year.
+**Sales-Profit Relationship:** Explore the correlation between sales and profit.
+**Period Comparison:** Compare sales, profit, and quantity sold between any two user-selected periods.
+**Discount Analysis:** Calculate the average discount offered within each discount category.
+**Order Count:** Show the total number of orders processed.
+**Dynamic Filtering:** Enable filtering by Product, Date, Customer ID, Promotion Categories, and more.
+**Regional Sales:** Present sales data segmented by city.
 
 # Key Features : 
 
@@ -27,23 +27,27 @@ Regional Sales: Present sales data segmented by city.
 
 # Key Visuals
 
-**Overview**:
+# Overview :
 
 ![image](https://github.com/user-attachments/assets/34a454ee-db40-4289-b184-5d98246cb9c8)
 
-**Top/Bottom 5 products by sales/profit/quantity sold**:
+
+# Top/Bottom 5 products by sales/profit/quantity sold :
 
 ![image](https://github.com/user-attachments/assets/9918d983-0350-49df-bb3a-b23cbd510c2f)
 
-**Comparison Sales/Profit/Quantity**:
+
+# Comparison Sales/Profit/Quantity :
 
 ![image](https://github.com/user-attachments/assets/953c42df-c6a8-42b7-9d52-6130248d8ba3)
 
-**Edit Interaction**
+
+# Edit Interaction :
 
 ![image](https://github.com/user-attachments/assets/f82c978d-29f4-4fdf-8130-37acded6c920)
 
-**Table Visual**
+
+# Table Visual : 
 
 ![image](https://github.com/user-attachments/assets/394be0df-5bb6-4077-b886-61267fd193cf)
 
