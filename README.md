@@ -51,6 +51,12 @@ The ElectroHub Sales Analysis Dashboard is a comprehensive Power BI project desi
 
 ![image](https://github.com/user-attachments/assets/394be0df-5bb6-4077-b886-61267fd193cf)
 
+
+# Data Modelling : 
+
+![image](https://github.com/user-attachments/assets/3d4bc68f-5070-4c83-950b-72f7fdfa67bb)
+
+
 # The key decisions taken for the Power BI project include:
 
 **Identifying Key Metrics:**  Selected metrics include Top/Bottom 5 products by Sales, Profit, and Quantity Sold to highlight performance variations.
