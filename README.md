@@ -51,3 +51,14 @@ The ElectroHub Sales Analysis Dashboard is a comprehensive Power BI project desi
 
 ![image](https://github.com/user-attachments/assets/394be0df-5bb6-4077-b886-61267fd193cf)
 
+# The key decisions taken for the Power BI project include:
+
+**Identifying Key Metrics:**  Selected metrics include Top/Bottom 5 products by Sales, Profit, and Quantity Sold to highlight performance variations.
+**Time-Series Analysis:** Chose to analyze sales trends over multiple timeframes (daily, monthly, quarterly, annually) to observe seasonal or trend changes.
+**Sales-Profit Relationship:** Decided to examine the correlation between sales and profit for better insights into profitability.
+**Comparative Analysis:** Enabled comparisons of sales, profit, and quantity sold between two user-selected periods to observe performance changes.
+**Discount Analysis:** Calculated the average discount offered within each discount category to understand pricing strategies.
+**Order Volume Tracking:** Total number of orders was chosen as a metric to measure transaction volume.
+**Data Filtering Capabilities:** Included visual filters (Product, Date, Customer ID, Promotion Categories) for each order to facilitate user-specific analysis.
+**Geographical Sales Insights:** Added a feature to show sales distribution by different cities for regional performance analysis
+
